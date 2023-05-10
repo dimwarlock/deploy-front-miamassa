@@ -19,7 +19,7 @@ function App() {
           <Route exact path="/" Component={FrontPage} />
           <Route path="/login" element={<Login />} />
           <Route
-            path="/administrador"
+            path="/administradoor"
             element={
               <ProtectedRoute>
                 <Administrador/>
