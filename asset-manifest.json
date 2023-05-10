@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deploy-front-miamassa/static/css/main.9a0f172c.css",
-    "main.js": "/deploy-front-miamassa/static/js/main.8754a358.js",
+    "main.js": "/deploy-front-miamassa/static/js/main.4e2ce13b.js",
     "static/media/promonuevaspiezas.jpeg": "/deploy-front-miamassa/static/media/promonuevaspiezas.444db21899761efe218e.jpeg",
     "static/media/promos.jpg": "/deploy-front-miamassa/static/media/promos.595f78959f42994ef371.jpg",
     "static/media/promoMedianas.jpg": "/deploy-front-miamassa/static/media/promoMedianas.535086501f3c919a6ffd.jpg",
@@ -17,10 +17,10 @@
     "static/media/bebidas.jpg": "/deploy-front-miamassa/static/media/bebidas.e53e1562d6571515dc51.jpg",
     "index.html": "/deploy-front-miamassa/index.html",
     "main.9a0f172c.css.map": "/deploy-front-miamassa/static/css/main.9a0f172c.css.map",
-    "main.8754a358.js.map": "/deploy-front-miamassa/static/js/main.8754a358.js.map"
+    "main.4e2ce13b.js.map": "/deploy-front-miamassa/static/js/main.4e2ce13b.js.map"
   },
   "entrypoints": [
     "static/css/main.9a0f172c.css",
-    "static/js/main.8754a358.js"
+    "static/js/main.4e2ce13b.js"
   ]
 }
