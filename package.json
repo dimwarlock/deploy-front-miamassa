@@ -1,5 +1,5 @@
 {
-  "homepage": "https://dimwarlock.github.io/deploy-front-miamassa",
+  "homepage": "http://dimwarlock.github.io/deploy-front-miamassa",
   "name": "miamassa",
   "version": "0.1.0",
   "proxy": "https://deploy-mia-massa.vercel.app/",
